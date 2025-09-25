@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal-portfolio-website/static/css/main.268d2213.css",
-    "main.js": "/personal-portfolio-website/static/js/main.28a5ccbe.js",
+    "main.js": "/personal-portfolio-website/static/js/main.10260cae.js",
     "static/js/453.ad7768ec.chunk.js": "/personal-portfolio-website/static/js/453.ad7768ec.chunk.js",
     "static/media/MyPic.png": "/personal-portfolio-website/static/media/MyPic.1d625d544fc3b4481d30.png",
     "static/media/rms.png": "/personal-portfolio-website/static/media/rms.276dbdbd7a0eb8af2e88.png",
@@ -33,11 +33,11 @@
     "static/media/inter-vietnamese-400-normal.woff2": "/personal-portfolio-website/static/media/inter-vietnamese-400-normal.44c9df135eec470b0ab6.woff2",
     "index.html": "/personal-portfolio-website/index.html",
     "main.268d2213.css.map": "/personal-portfolio-website/static/css/main.268d2213.css.map",
-    "main.28a5ccbe.js.map": "/personal-portfolio-website/static/js/main.28a5ccbe.js.map",
+    "main.10260cae.js.map": "/personal-portfolio-website/static/js/main.10260cae.js.map",
     "453.ad7768ec.chunk.js.map": "/personal-portfolio-website/static/js/453.ad7768ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.268d2213.css",
-    "static/js/main.28a5ccbe.js"
+    "static/js/main.10260cae.js"
   ]
 }
