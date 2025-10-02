@@ -12642,8 +12642,8 @@
                 }),
               }),
               (0, S.jsx)("a", {
-                href: "IzhaanHumayunCV.pdf",
-                download: !0,
+                href: `${process.env.PUBLIC_URL}/IzhaanHumayunCV.pdf`,
+                download: "IzhaanHumayunCV.pdf",
                 id: "btn",
                 children: (0, S.jsx)("button", {
                   className: "download_btn",
